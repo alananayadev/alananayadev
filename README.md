@@ -1,5 +1,5 @@
 # 👨🏻‍💻 About Me:
-📱 I’m currently working on my Skills.<br>📖 I’m currently learning more about iOS development<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - hello@alananayadev.com<br>☕️ Fun Fact: Coffee is everything 
+📱 I’m currently working on my Skills.<br>📖 I’m currently learning more about iOS development<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - hello@alananaya.dev<br>☕️ Fun Fact: Coffee is everything 
 
 
 ## 🌐 Socials:
